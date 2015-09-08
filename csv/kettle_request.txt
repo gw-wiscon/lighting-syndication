@@ -1,0 +1,1 @@
+http://127.0.0.1:8181/kettle/executeTrans/?trans=C:\dev%2FPentaho%2Frest_sample%2Frest_sample.ktr
